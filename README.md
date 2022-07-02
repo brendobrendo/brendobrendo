@@ -5,6 +5,18 @@
 
 Here are some ideas to get you started:
 
+```
+{
+    'name': 'Brendan Smith',
+    'email': 'brendan.smith903@gmail.com',
+    'location': 'Seattle',
+    'likes': [],
+    'workingOn': 'ASP.NET 6.0'
+}
+
+// Peruse some of my projects at your leisure.
+```
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
