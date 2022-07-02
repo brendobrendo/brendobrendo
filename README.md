@@ -8,9 +8,9 @@
     'likes': [],
     'workingOn': 'Data-Structures', 'Algos', 'ASP.NET 6.0'
 }
+```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brendobrendo)](https://git.io/streak-stats)
-```
 
 
 - 🔭 I’m currently building a project with ASP.NET 6.0 and deploying it with AWS EC2
