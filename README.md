@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://media.giphy.com/media/LPZMkVxnXERA5h8BVJ/giphy.gif
+
 ```
 {
     'name': 'Brendan Smith',
