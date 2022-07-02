@@ -9,7 +9,7 @@
     'workingOn': 'Data-Structures', 'Algos', 'ASP.NET 6.0'
 }
 
-// Peruse some of my projects at your leisure.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brendobrendo)](https://git.io/streak-stats)
 ```
 
 
