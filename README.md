@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a cross platform project using React Native
 - 🌱 I’m currently learning how Javascript works under the hood
 - 🤔 I’m looking for help implementing Facebook and Google authenticators
-<a href="https://www.linkedin.com/in/brendan-smith-2896a5172/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="100" /></a>
+- <a href="https://www.linkedin.com/in/brendan-smith-2896a5172/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="100" /></a> <a href="https://www.instagram.com/brendansmith903/?hl=en" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="100" /></a>
 
 
 
