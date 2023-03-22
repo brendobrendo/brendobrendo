@@ -2,6 +2,8 @@
 
 <iframe src="https://giphy.com/embed/LPZMkVxnXERA5h8BVJ" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-coffee-blurred-days-LPZMkVxnXERA5h8BVJ">via GIPHY</a></p>
 
+![alt text](https://giphy.com/gifs/music-coffee-blurred-days-LPZMkVxnXERA5h8BVJ)
+
 
 ```
 {
