@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-
-
-
-\n
 ```
 {
     'name': 'Brendan Smith',
     'email': 'brendan.smith903@gmail.com',
     'location': 'Seattle',
-    'likes': [],
-    'workingOn': 'cloud development', 'event based architectures', 
+    'likes': [ 'skiing', 'mountains', 'oceans', 'Seattle' ],
+    'workingOn': [ 'cloud development', 'data analysis', 'machine learning' 'event based architectures' ] 
 }
 ```
 
