@@ -6,7 +6,12 @@
     'email': 'brendan.smith903@gmail.com',
     'location': 'Seattle',
     'likes': [ 'skiing', 'mountains', 'oceans', 'Seattle' ],
-    'workingOn': [ 'cloud development', 'data analysis', 'machine learning', 'event based architectures' ] 
+    'workingOn': [ 
+        'cloud development', 
+        'data analysis', 
+        'machine learning', 
+        'event based architectures', 
+       ] 
 }
 ```
 
