@@ -6,7 +6,7 @@
     'email': 'brendan.smith903@gmail.com',
     'location': 'Seattle',
     'likes': [ 'skiing', 'mountains', 'oceans', 'Seattle' ],
-    'workingOn': [ 'cloud development', 'data analysis', 'machine learning' 'event based architectures' ] 
+    'workingOn': [ 'cloud development', 'data analysis', 'machine learning', 'event based architectures' ] 
 }
 ```
 
@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brendobrendo)](https://git.io/streak-stats)
 
-<a href="https://www.linkedin.com/in/brendan-smith-2896a5172/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50" /></a> <a href="https://www.instagram.com/brendansmith903/?hl=en" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="50" /></a><a href="https://leetcode.com/problemset/all/" target="blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" height="50" />
+<a href="https://www.linkedin.com/in/brendan-smith-2896a5172/" target="blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" height="50" /></a>     <a href="https://www.instagram.com/brendansmith903/?hl=en" target="blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" height="50" /></a><a href="https://leetcode.com/problemset/all/" target="blank"><img align="center" src="https://simpleicons.org/icons/leetcode.svg" height="50" />
 
 
 
