@@ -6,8 +6,8 @@
 ### 🔧  What I’m Working On
 | Project | Stack | Purpose |
 |---------|-------|---------|
-| **Agent Smith** | React, Flask, Neo4j, MongoDB, OpenAI API | Automate life admin & surface context-aware prompts |
-| **PromptPort (mobile)** | React Native, Expo | One-tap copy of high-quality prompt templates |
+| **Agent Smith (desktop)** | React, Flask, Neo4j, MongoDB, OpenAI API | Automate life admin & surface context-aware prompts |
+| **Agent Smith (mobile)** | React Native, Expo | One-tap copy of high-quality prompt templates |
 | **Role Automator** | Google Apps Script, Sheets | Auto-assign Toastmasters meeting roles |
 
 - **Tech Interests**  
