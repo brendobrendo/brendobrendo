@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Brendan Smith
+## Brendan Smith
 
 - **Personal Banker @ Wells Fargo (Seattle)**  
   Uncovering customer needs through face-to-face conversations while gaining hands-on expertise in the payments ecosystem.
