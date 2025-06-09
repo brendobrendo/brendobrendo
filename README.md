@@ -1,15 +1,18 @@
 ## 👋 Hi, I’m Brendan Smith
 
 - **Personal Banker @ Wells Fargo (Seattle)**  
-  Helping clients navigate everyday finances while learning the payments ecosystem from the inside out.
+  Uncovering customer needs through face-to-face conversations while gaining hands-on expertise in the payments ecosystem.
 
-- **Builder & Weekend Hacker**  
-  - **Agent Smith** – my personal productivity engine (React + Flask, Neo4j, PostreSQL, MongoDB, Google APIs)  
-  - **Toastmasters Role Automator** – Google Apps Script that schedules 40-member meetings effortlessly  
+- **Builder**  
+  - **Agent Smith** – my personal productivity engine (React + Flask, Neo4j, PostreSQL, MongoDB, Google APIs, OpenAI API)  
+  - **Toastmasters Role Automator** – Google Apps Script that schedules 50-member Toastmaster meetings saving someone an hour per week of manual processing  
   - Experimenting with React Native, RAG systems, and graph databases for Gen AI projects.
 
 - **Tech Interests**  
   FinTech infrastructure • Generative AI • Graph data & knowledge graphs • Cloud architecture (AWS, Azure, serverless, microservices) • Developer experience tooling.
+
+- **Book Recommendations**
+  - "A Brief History of Intelligence" by Max Bennett
 
 - **Speaker & Community-Builder**  
   Former Toastmasters President (now Area Director). Passionate about clear communication, persuasive storytelling, and helping others level-up.
