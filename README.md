@@ -7,8 +7,8 @@
 | Project | Stack | Purpose |
 |---------|-------|---------|
 | **Agent Smith (desktop)** | React, Flask, Neo4j, MongoDB, OpenAI API | Orchestrates MCP and LangChain workflows to generate context-aware, goal-aligned prompts. |
-| **Agent Smith (mobile)** | React Native, Expo | One-tap copy of high-quality prompt templates |
-| **Role Automator** | Google Apps Script, Sheets | Auto-assign Toastmasters meeting roles |
+| **Agent Smith (mobile)** | React Native, Expo | Captures structured data on-the-go (voice, receipts, notes) to enrich personal context. |
+| **Role Automator** | Google Apps Script, Sheets | Auto-schedules meeting roles for a 40-member Toastmasters club—saving ~1 hour/week of manual work and fostering a more engaging in-person community. |
 
 - **Tech Interests**  
   Generative AI • Graph data & knowledge graphs • Cloud architecture (AWS, Azure) • FinTech infrastructure.
