@@ -1,6 +1,6 @@
 # Brendan Smith
 
-- **Personal Banker @ Wells Fargo (Seattle)**  
+- **Relationship Banker @ Wells Fargo (Seattle)**  
   Uncovering customer needs through face-to-face conversations while gaining hands-on expertise in the payments ecosystem.
 
 ### 🔧  What I’m Working On
@@ -23,7 +23,7 @@
   Former Toastmasters President (now Area Director). Passionate about clear communication, and persuasive storytelling.
 
 - **Goals for 2025**  
-  - Land a licensed banker role
+  - ~Land a licensed banker role~ ✅
   - Pass the AWS Solutions Architect Professional Exam
   - Close on a first home 🏡
 
