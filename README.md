@@ -6,7 +6,7 @@
 ### 🔧  What I’m Working On
 | Project | Stack | Purpose |
 |---------|-------|---------|
-| **Agent Smith (desktop)** | React, Flask, Neo4j, MongoDB, OpenAI API | Orchestrates MCP and LangChain workflows to generate context-aware, goal-aligned prompts. |
+| **Agent Smith (desktop)** | React, Flask, Neo4j, MongoDB, OpenAI API | Orchestrates MCP-like and LangChain workflows to generate context-aware, goal-aligned prompts, uncover patterns in behavior and energy states, and automate task execution. |
 | **Agent Smith (mobile)** | React Native, Expo | Captures structured data on-the-go (voice, receipts, notes) to enrich personal context. |
 | **Role Automator** | Google Apps Script, Sheets | Auto-schedules meeting roles for a 40-member Toastmasters club—saving ~1 hour/week of manual work and fostering a more engaging in-person community. |
 
