@@ -11,7 +11,7 @@
 | **Role Automator** | Google Apps Script, Sheets | Auto-schedules meeting roles for a 40-member Toastmasters club—saving ~1 hour/week of manual work and fostering a more engaging in-person community. |
 
 - **Tech Interests**  
-  Generative AI • Graph data & knowledge graphs • Cloud architecture (AWS, Azure) • FinTech infrastructure.
+  Generative AI • Cloud architecture (AWS, Azure) • FinTech infrastructure • Graph data & knowledge graphs
 
 - **Book Recommendations**
   - "A Brief History of Intelligence" by Max Bennett
@@ -20,7 +20,7 @@
   - Sam Altman, Benjamin Franklin, Jack Black
 
 - **Speaker & Community-Builder**  
-  Former Toastmasters President (now Area Director). Passionate about clear communication, persuasive storytelling, and helping others level-up.
+  Former Toastmasters President (now Area Director). Passionate about clear communication, and persuasive storytelling.
 
 - **Goals for 2025**  
   - Land a licensed banker role
